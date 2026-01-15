@@ -1,0 +1,11 @@
+{
+  "participants": {
+    "forecaster": "019bc2e5-7739-7ca0-bec4-fc7bb8165f3f"
+  },
+  "results": [
+    {
+      "rmse": 10000.0,
+      "status": "completed"
+    }
+  ]
+}
