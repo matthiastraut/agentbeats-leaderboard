@@ -3,9 +3,9 @@ agentbeats_id = "019bc2a8-7f40-74f0-87fe-17e62c7ad027"
 env = { API_KEY = "${GITHUB_SECRET_NAME}", GOOGLE_API_KEY="${GOOGLE_API_KEY}", OPENAI_API_KEY="${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
 
 [[participants]]
-agentbeats_id = "019bc2e5-7739-7ca0-bec4-fc7bb8165f3f"
+agentbeats_id = ""
 name = "forecaster"
-env = { API_KEY = "${GITHUB_SECRET_NAME}", GOOGLE_API_KEY="${GOOGLE_API_KEY}", OPENAI_API_KEY="${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
+env = {}
 
 [config]
 num_rounds = 1
