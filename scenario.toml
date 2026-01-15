@@ -4,7 +4,7 @@ env = { API_KEY = "${GITHUB_SECRET_NAME}", GOOGLE_API_KEY="${GOOGLE_API_KEY}", O
 
 [[participants]]
 agentbeats_id = "019bc2e5-7739-7ca0-bec4-fc7bb8165f3f"
-name = "forecaster1"
+name = "forecaster"
 env = { API_KEY = "${GITHUB_SECRET_NAME}", GOOGLE_API_KEY="${GOOGLE_API_KEY}", OPENAI_API_KEY="${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
 
 [config]
